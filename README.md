@@ -191,28 +191,7 @@ for stock_id in stock_list:
 3. **API限制**: OpenAI API和LINE Bot有使用限制，請注意配額
 4. **資料延遲**: 股票資料可能有延遲，請以官方資料為準
 
-## 🤝 貢獻指南
-
-歡迎提交Issue和Pull Request！
-
-1. Fork 這個專案
-2. 創建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 開啟Pull Request
-
-## 📄 授權條款
-
-本專案採用 MIT 授權條款 - 詳見 [LICENSE](LICENSE) 文件
-
-## 📧 聯絡方式
-
-- 作者: Your Name
-- Email: your.email@example.com
-- 專案連結: https://github.com/yourusername/stock-analyzer
-
 ## 🙏 致謝
-
 - 感謝 [goodinfo.tw](https://goodinfo.tw) 提供股票資料
 - 感謝開源社群提供的優秀套件
 - 感謝所有貢獻者的支持
