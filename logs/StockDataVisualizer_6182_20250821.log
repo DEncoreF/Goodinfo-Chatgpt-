@@ -1,0 +1,5 @@
+2025-08-21 15:14:47 - StockDataVisualizer_6182 - INFO - 成功獲取股票 6182 的數據
+2025-08-21 15:14:47 - StockDataVisualizer_6182 - INFO - 日線數據清理完成，共 244 筆記錄
+2025-08-21 15:14:47 - StockDataVisualizer_6182 - INFO - 股票 6182 買入條件判斷: True
+2025-08-21 15:14:47 - StockDataVisualizer_6182 - INFO - 月線數據清理完成，共 40 筆記錄
+2025-08-21 15:15:13 - StockDataVisualizer_6182 - INFO - 股票 6182 ChatGPT 分析完成

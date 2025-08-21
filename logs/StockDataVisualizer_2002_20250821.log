@@ -1,0 +1,5 @@
+2025-08-21 15:10:10 - StockDataVisualizer_2002 - INFO - 成功獲取股票 2002 的數據
+2025-08-21 15:10:10 - StockDataVisualizer_2002 - INFO - 日線數據清理完成，共 244 筆記錄
+2025-08-21 15:10:10 - StockDataVisualizer_2002 - INFO - 股票 2002 買入條件判斷: True
+2025-08-21 15:10:10 - StockDataVisualizer_2002 - INFO - 月線數據清理完成，共 40 筆記錄
+2025-08-21 15:10:29 - StockDataVisualizer_2002 - INFO - 股票 2002 ChatGPT 分析完成

@@ -1,0 +1,5 @@
+2025-08-21 15:11:25 - StockDataVisualizer_2317 - INFO - 成功獲取股票 2317 的數據
+2025-08-21 15:11:25 - StockDataVisualizer_2317 - INFO - 日線數據清理完成，共 244 筆記錄
+2025-08-21 15:11:25 - StockDataVisualizer_2317 - INFO - 股票 2317 買入條件判斷: True
+2025-08-21 15:11:25 - StockDataVisualizer_2317 - INFO - 月線數據清理完成，共 40 筆記錄
+2025-08-21 15:11:44 - StockDataVisualizer_2317 - INFO - 股票 2317 ChatGPT 分析完成
